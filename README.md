@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Science student who enjoys programming.
+Final-year Computer Science student passionate about backend development. Dedicated to continuous learning and turning code into practical solutions.
 
 
 ## 🌐 Socials:
