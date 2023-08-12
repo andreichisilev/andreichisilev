@@ -1,6 +1,6 @@
 # 💫 About Me:
--Final-year Computer Science student passionate about backend development.
--Dedicated to continuous learning and turning code into practical solutions.
+- Final-year Computer Science student passionate about backend development.
+- Dedicated to continuous learning and turning code into practical solutions.
 
 
 ## 🌐 Socials:
