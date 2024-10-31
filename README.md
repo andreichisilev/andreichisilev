@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Final-year Computer Science student passionate about backend development.
+- First year CyberSecurity & Machine Learning student passionate about backend development.
 - Dedicated to continuous learning and turning code into practical solutions.
 
 
