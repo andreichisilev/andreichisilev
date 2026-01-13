@@ -1,5 +1,5 @@
 # 💫 About Me:
-- First year CyberSecurity & Machine Learning student passionate about backend development.
+- Second year CyberSecurity & Machine Learning student.
 - Dedicated to continuous learning and turning code into practical solutions.
 - Participated in 3 Hackathons [ItFest Timisoara 2024](https://github.com/andreichisilev/HealthIQ), [ItMarathon Iasi 2024](https://github.com/Adreunul/ITMarathon-Hackathon), [Unihack Timisoara 2024](https://github.com/corsimar/unihack2024)
 
